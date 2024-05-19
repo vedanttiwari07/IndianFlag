@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#first {
+    background-color: orangered;
+    display: inline-block;
+    position: absolute;
+    height: 50px;
+    width: 250px;
+}
+#second {
+    background-color: whitesmoke;
+    height: 40px;
+    width: 250px;
+    position: absolute;
+    top: 40px;
+}
+#third {
+    background-color: green;
+    height: 119px;
+    width: 250px;
+    position: absoulte;
+    top: 150px;
+}
+.flagbox{
+    position: relative;
+    z-index: 1;
+    margin: 5px; 
+    border: solid black 3px;
+    display: inline-block;
+}
+#image img{
+    height: 39px;
+    width: 72px;
+    position: absolute;
+    top: 47px;
+    left: 97px;
+    z-index: 2;
+}
+
