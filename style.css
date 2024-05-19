@@ -23,14 +23,14 @@
     position: absoulte;
     top: 150px;
 }
-.flagbox{
+.flagbox {
     position: relative;
     z-index: 1;
     margin: 5px; 
     border: solid black 3px;
     display: inline-block;
 }
-#image img{
+#image img {
     height: 39px;
     width: 72px;
     position: absolute;
